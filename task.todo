@@ -1,0 +1,6 @@
+- [x] Create new DTO for Customer @started(21-08-23 18:33) @done(21-08-23 18:35) @lasted(2m51s)
+- [x] UUID for ID, String for name @done(21-08-23 18:35)
+- [x] Use Lombok for DTO @done(21-08-23 18:35)
+- [x] Create Controller and get by ID URL @started(21-08-23 18:35) @done(21-08-23 18:45) @lasted(10m48s)
+- [x] Create Service and service implementation @done(21-08-23 18:45)
+- [x] Test in Postman @started(21-08-23 18:45) @done(21-08-23 18:48) @lasted(3m56s)
